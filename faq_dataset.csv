@@ -1,0 +1,52 @@
+Question,Answer
+What is AI?,AI stands for Artificial Intelligence.
+What is Machine Learning?,Machine Learning is a subset of AI.
+What is Deep Learning?,Deep Learning uses neural networks.
+What is Python?,Python is a popular programming language.
+Who developed Python?,Python was developed by Guido van Rossum.
+What is Data Science?,Data Science extracts insights from data.
+What is NLP?,NLP stands for Natural Language Processing.
+What is Computer Vision?,Computer Vision enables machines to understand images.
+What is a chatbot?,A chatbot is software that simulates conversation.
+What is TensorFlow?,TensorFlow is a machine learning framework.
+What is Keras?,Keras is a deep learning API.
+What is Pandas?,Pandas is a Python library for data analysis.
+What is NumPy?,NumPy is a numerical computing library.
+What is Scikit-Learn?,Scikit-Learn is a machine learning library.
+What is overfitting?,Overfitting occurs when a model learns noise.
+What is underfitting?,Underfitting occurs when a model fails to learn patterns.
+What is supervised learning?,Learning from labeled data.
+What is unsupervised learning?,Learning from unlabeled data.
+What is reinforcement learning?,Learning through rewards and penalties.
+What is a neural network?,A neural network is inspired by the human brain.
+What is a dataset?,A dataset is a collection of data.
+What is classification?,Classification predicts categories.
+What is regression?,Regression predicts continuous values.
+What is clustering?,Clustering groups similar data points.
+What is accuracy?,Accuracy measures correct predictions.
+What is precision?,Precision measures positive prediction quality.
+What is recall?,Recall measures how many positives are found.
+What is F1 score?,F1 score balances precision and recall.
+What is big data?,Big data refers to massive datasets.
+What is cloud computing?,Cloud computing provides online resources.
+What is AWS?,AWS is Amazon Web Services.
+What is Azure?,Azure is Microsoft's cloud platform.
+What is Google Cloud?,Google Cloud is Google's cloud platform.
+What is SQL?,SQL is used to manage databases.
+What is MySQL?,MySQL is a relational database.
+What is MongoDB?,MongoDB is a NoSQL database.
+What is Git?,Git is a version control system.
+What is GitHub?,GitHub hosts Git repositories.
+What is Docker?,Docker creates software containers.
+What is Linux?,Linux is an open-source operating system.
+What is Java?,Java is a programming language.
+What is C++?,C++ is a high-performance programming language.
+What is JavaScript?,JavaScript powers web applications.
+What is HTML?,HTML structures web pages.
+What is CSS?,CSS styles web pages.
+What is API?,API enables software communication.
+What is REST API?,REST is an API architecture style.
+What is Flask?,Flask is a Python web framework.
+What is Django?,Django is a Python web framework.
+What is OpenAI?,OpenAI develops AI technologies.
+What is ChatGPT?,ChatGPT is an AI chatbot.
